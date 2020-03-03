@@ -1,2 +1,2 @@
 greetings = "Hello World"
-puts "{
+puts "#{greetings}."
